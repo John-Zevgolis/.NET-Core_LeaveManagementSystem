@@ -480,3 +480,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+LeaveManagementSystem/appsettings.json
+LeaveManagementSystem/app.db
